@@ -2,7 +2,7 @@ name: JD_Sign_Action
 
 on:
    push:
-     branches: main
+     branches: master
    gollum:
    workflow_dispatch:
    schedule:
