@@ -6,7 +6,7 @@ on:
    gollum:
    workflow_dispatch:
    schedule:
-       - cron: '17 16 * * *'
+       - cron: '17 20 * * *'
 #   repository_dispatch:
 #   release:
 #     types: published
